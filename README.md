@@ -1,5 +1,6 @@
 # 🧮Statistics Calculator🐙
 The **Statistics Calculator** is a simple web-based application that calculates key statistical measures (Mean, Median, Mode, Range, Variance, and Standard Deviation) for a list of user-provided numbers. It provides quick and clear insights into your data through a clean and intuitive interface.
+this is the hyperlink of this project https://statistics-calculator-project-app.netlify.app/
 
 ![image](https://github.com/user-attachments/assets/6fc1b61c-92fb-4079-bb2a-751c061f282f)
 
@@ -34,7 +35,4 @@ The **Statistics Calculator** is a sleek and intuitive web-based tool for calcul
 
 ## 📦 How to Use
 
-1. Clone or download the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/statistics-calculator.git
-   cd statistics-calculator
+https://statistics-calculator-project-app.netlify.app/
